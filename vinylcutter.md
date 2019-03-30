@@ -11,3 +11,4 @@ Machine rollers will take up 1" on either side of the vinyl.
 Select a roll of vinyl and place it on the rollers behind the machine.
 On the back right of the machine you will see a lever; place it in the "down" position so you can load the vinyl.
 Make sure the vinyl side is facing up as you feed it through the rollers into the vinyl cutter.
+Under the rubber wheels there is a white sticker indicator.
