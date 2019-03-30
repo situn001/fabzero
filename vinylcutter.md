@@ -14,3 +14,4 @@ Make sure the vinyl side is facing up as you feed it through the rollers into th
 Under the rubber wheels there is a white sticker indicator.
 Ensure that the vinyl is aligned properly under the rubber wheels.
 The left wheel must always be under the wide white sticker on the left
+The right rubber wheel must be under any one of the three white stickers on the right, depending on the width of your vinyl.
