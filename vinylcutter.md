@@ -13,3 +13,4 @@ On the back right of the machine you will see a lever; place it in the "down" po
 Make sure the vinyl side is facing up as you feed it through the rollers into the vinyl cutter.
 Under the rubber wheels there is a white sticker indicator.
 Ensure that the vinyl is aligned properly under the rubber wheels.
+The left wheel must always be under the wide white sticker on the left
