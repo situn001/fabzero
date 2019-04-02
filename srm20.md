@@ -90,3 +90,10 @@ Only set the origin Z or you will not be able to match the last origin X/Y
 
 When the machine stops,remove your board with the help of a spatula,don’t be Hulk or you will break the board.Vacuum away the plastic and metal chips in the area. 
 Enjoy your PCB and Clean your mess and files after you’re done working!
+![](img/7.jpg)
+![](img/8.jpg)
+![](img/9.jpg)
+![](img/10.jpg)
+![](img/11.jpg)
+![](img/12.jpg)
+![](img/13.jpg)
