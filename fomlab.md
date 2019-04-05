@@ -10,3 +10,10 @@ SLA is famous for being the first 3D Printing technology: its inventor patented 
 •  When a layer is finished, the platform moves at a safe distance and the sweeper blade re-coats the surface. The process then repeats until the part is complete.
 •  After printing, the part is in a green, no-fully-cured state and requires further post processing under UV light if very high mechanical and thermal properties are required.
 The liquid resin is solidified through a process called photopolymerization: during solidification, the monomer carbon chains that compose the liquid resin are activated by the light of the UV laser and become solid, creating strong unbreakable bonds between each other. The photopolymerization process is irreversible and there is no way to convert the SLA parts back to their liquid form: when heated, they will burn instead of melting. This is because the materials that are produced with SLA are made of thermoset polymers, as opposed to the thermoplastics that FDM uses.
+![](img/fomlab1.jpg)
+![](img/fomlab2.jpg)
+![](img/fomlab3.jpg)
+![](img/fomlab4.jpg)
+![](img/fomlab5.jpg)
+![](img/fomlab6.jpg)
+![](img/fomlab7.jpg)

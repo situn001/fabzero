@@ -10,3 +10,6 @@ Different steps There are different steps needed to create a physical object wit
 2.	Model Download the model To be able to print a model it is necessary to start from a 3D-model on the computer. A 3D-model is drawn on the computer. 3DWOX printer needs to be sliced in this software. Setup software for first use with the printer choose printer • Start by opening up the Sindoh 3D WOX software. •  This will make sure that the software will generate the correct code for our 3D-printer. Set Up 3D-model for 3D-printing Load/import 3D-model Import a 3D-model. This needs to be a .STL, .OBJ or .PLY file. Click the Load folder icon on the top left corner of the screen, select your 3D-file in the browser, and click “open.” The model will now show up on the build platform.
 3.	The 3D printing design can be drawn using the free Freecad software
 4.	This printer uses the polylactic cartridge and single colour can be used at a time and it is having the thickness of 1.75 mm in diameter and 700 grms per cartridge.
+![](img/3d.jpg)
+![](img/3d1.jpg)
+![](img/3d2.jpg)

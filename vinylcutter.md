@@ -64,3 +64,4 @@ Carefully pull the transfer tape away from the vinyl, leaving the vinyl attached
 
 Then we created username and user email in the git login After the Successfull installation we did cloning of the readme file by copying the address and then we tried updating the file and then we saved the file by commit and then pushing the file to the repository. Then we have started taking pictures of the equipment's and uploading in the repository. After that we had lunch break. After the lunch break we sorted out inventory of electronic devices. Next Mentor briefed us about the functionality of the 3D Printer, unloading of the filament, cleaning of the waste, cooling procedure of the printer, etc. And next Mentor briefed us about the Vinyl cutter, how to load the sheet, how to keep the edge points on the sheet. Next we had tea break. We installed 3DWOX software for 3D printing Did all the documentation of today's work in the reposito  
 ![](img/sample.jpg)
+![](img/vinyl.jpg)
